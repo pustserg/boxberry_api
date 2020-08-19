@@ -1,0 +1,25 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BoxberryApi	lib/boxberry_api.rb	/^module BoxberryApi$/;"	m
+BoxberryApi	lib/boxberry_api/client.rb	/^module BoxberryApi$/;"	m
+BoxberryApi	lib/boxberry_api/list_points.rb	/^module BoxberryApi$/;"	m
+BoxberryApi	lib/boxberry_api/list_statuses_full.rb	/^module BoxberryApi$/;"	m
+BoxberryApi	lib/boxberry_api/parcel_create.rb	/^module BoxberryApi$/;"	m
+BoxberryApi	lib/boxberry_api/version.rb	/^module BoxberryApi$/;"	m
+Client	lib/boxberry_api/client.rb	/^  module Client$/;"	m	class:BoxberryApi
+ListPoints	lib/boxberry_api/list_points.rb	/^  class ListPoints$/;"	c	class:BoxberryApi
+ListStatusesFull	lib/boxberry_api/list_statuses_full.rb	/^  class ListStatusesFull$/;"	c	class:BoxberryApi
+ParcelCreate	lib/boxberry_api/parcel_create.rb	/^  class ParcelCreate$/;"	c	class:BoxberryApi
+call	lib/boxberry_api/list_points.rb	/^      def call$/;"	f	class:BoxberryApi.ListPoints
+call	lib/boxberry_api/list_statuses_full.rb	/^      def call(track)$/;"	f	class:BoxberryApi.ListStatusesFull
+call	lib/boxberry_api/parcel_create.rb	/^      def call(parcel)$/;"	f	class:BoxberryApi.ParcelCreate
+client	lib/boxberry_api/client.rb	/^    def client$/;"	f	class:BoxberryApi.Client
+get	lib/boxberry_api/client.rb	/^    def get(path: "", params: {})$/;"	f	class:BoxberryApi.Client
+list_points	lib/boxberry_api/list_points.rb	/^    def list_points$/;"	f	class:BoxberryApi
+list_statuses_full	lib/boxberry_api/list_statuses_full.rb	/^    def list_statuses_full(track)$/;"	f	class:BoxberryApi
+parcel_create	lib/boxberry_api/parcel_create.rb	/^    def parcel_create(parcel)$/;"	f	class:BoxberryApi
+post	lib/boxberry_api/client.rb	/^    def post(path: "", params:)$/;"	f	class:BoxberryApi.Client

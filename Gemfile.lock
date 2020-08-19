@@ -1,0 +1,21 @@
+PATH
+  remote: .
+  specs:
+    boxberry_api (0.0.1)
+      configurations
+      zeitwerk
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    configurations (2.2.2)
+    zeitwerk (2.4.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  boxberry_api!
+
+BUNDLED WITH
+   2.1.4
